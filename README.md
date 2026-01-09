@@ -31,12 +31,6 @@ Hedefim; farklı alanlardaki bu teknik yetkinliğimi kullanarak sektörde öncü
 ![](https://nirzak-streak-stats.vercel.app/?user=bbevqZip&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbevqZip&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzak.maurodesouzak&"  />
-</div>
-
-###
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
