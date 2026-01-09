@@ -33,7 +33,7 @@ Hedefim; farklı alanlardaki bu teknik yetkinliğimi kullanarak sektörde öncü
 
 <div align="center">
   <a href="https://open.spotify.com/user/tahakaratas0312">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tahakaratas0312&count=1" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=tahakaratas0312&count=3" alt="Spotify recently played"  />
   </a>
 </div>
 
