@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Selam, Ben Berk<br><br>Profesyonel kariyerimi PLC sektöründe sürdürmekle birlikte, asıl odağı Frontend Geliştirme olan çok yönlü bir yazılımcıyım. AuraNest ekibinin bir parçası olarak aktif şekilde projeler üretiyor; hem endüstriyel disiplini hem de modern web teknolojilerini tek bir profilde buluşturuyorum.<br><br>🛠️ Neler Yapıyorum?<br><br>Web Geliştirme: React, TypeScript (TSX) ve Node.js ile modern, kullanıcı odaklı uygulamalar.<br><br>Otomasyon (Sektör Deneyimi): Siemens TIA Portal (v20) ve SCL ile endüstriyel sistem programlama.<br><br>Bot & Topluluk: Discord için gelişmiş botlar kodluyor ve ekibimle dijital çözümler üretiyorum.<br><br>Hedefim; farklı alanlardaki bu teknik yetkinliğimi kullanarak sektörde öncü olmak ve her zaman "temiz kod" prensibiyle sürdürülebilir işler çıkarmaktır.
+# 👋 Selam, Ben Berk<br><br>Profesyonel kariyerimi PLC sektöründe sürdürmekle birlikte, asıl odağı Frontend Geliştirme olan çok yönlü bir yazılımcıyım. AuraNest ekibinin bir parçası olarak aktif şekilde projeler üretiyor; hem endüstriyel disiplini hem de modern web teknolojilerini tek bir profilde buluşturuyorum.<br><br>## 🛠️ Neler Yapıyorum?<br><br>Web Geliştirme: React, TypeScript (TSX) ve Node.js ile modern, kullanıcı odaklı uygulamalar.<br><br>Otomasyon (Sektör Deneyimi): Siemens TIA Portal (v20) ve SCL ile endüstriyel sistem programlama.<br><br>Bot & Topluluk: Discord için gelişmiş botlar kodluyor ve ekibimle dijital çözümler üretiyorum.<br><br>Hedefim; farklı alanlardaki bu teknik yetkinliğimi kullanarak sektörde öncü olmak ve her zaman "temiz kod" prensibiyle sürdürülebilir işler çıkarmaktır.
 
 
 ## 🌐 Socials:
@@ -22,6 +22,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bbevqZip&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bbevqZip&icon=0&color=0)](https://visitcount.itsvg.in)
+![[!](https://visitcount.itsvg.in/api?id=bbevqZip&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
