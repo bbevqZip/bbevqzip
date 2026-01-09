@@ -31,7 +31,7 @@ Hedefim; farklı alanlardaki bu teknik yetkinliğimi kullanarak sektörde öncü
 ![](https://nirzak-streak-stats.vercel.app/?user=bbevqZip&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbevqZip&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tahakaratas0312&width=300<{width}<400&count=2<{count}<4)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=tahakaratas0312)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
