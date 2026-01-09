@@ -1,6 +1,16 @@
 # 💫 About Me:
-<h3>👋 Selam, Ben Berk</h3><br><br>Profesyonel kariyerimi PLC sektöründe sürdürmekle birlikte, asıl odağı Frontend Geliştirme olan çok yönlü bir yazılımcıyım. AuraNest ekibinin bir parçası olarak aktif şekilde projeler üretiyor; hem endüstriyel disiplini hem de modern web teknolojilerini tek bir profilde buluşturuyorum.<br><br><h3> 🛠️ Neler Yapıyorum?</h3><br><br>Web Geliştirme: React, TypeScript (TSX) ve Node.js ile modern, kullanıcı odaklı uygulamalar.<br><br>Otomasyon (Sektör Deneyimi): Siemens TIA Portal (v20) ve SCL ile endüstriyel sistem programlama.<br><br>Bot & Topluluk: Discord için gelişmiş botlar kodluyor ve ekibimle dijital çözümler üretiyorum.<br><br>Hedefim; farklı alanlardaki bu teknik yetkinliğimi kullanarak sektörde öncü olmak ve her zaman "temiz kod" prensibiyle sürdürülebilir işler çıkarmaktır.
 
+### 👋 Selam, Ben Berk
+
+Profesyonel kariyerimi **PLC sektöründe** sürdürmekle birlikte, asıl odağı **Frontend Geliştirme** olan çok yönlü bir yazılımcıyım. **AuraNest** ekibinin bir parçası olarak aktif şekilde projeler üretiyor; hem endüstriyel disiplini hem de modern web teknolojilerini tek bir profilde buluşturuyorum.
+
+### 🛠️ Neler Yapıyorum?
+
+- **Web Geliştirme:** React, TypeScript (TSX) ve Node.js ile modern, kullanıcı odaklı uygulamalar.
+- **Otomasyon (Sektör Deneyimi):** Siemens TIA Portal (v20) ve SCL ile endüstriyel sistem programlama.
+- **Bot & Topluluk:** Discord için gelişmiş botlar kodluyor ve ekibimle dijital çözümler üretiyorum.
+
+Hedefim; farklı alanlardaki bu teknik yetkinliğimi kullanarak sektörde öncü olmak ve her zaman **"temiz kod"** prensibiyle sürdürülebilir işler çıkarmaktır.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.gg/auranest) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bbevqzip) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaharanlibbevq@gmail.com) 
@@ -12,7 +22,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=bbevqZip&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bbevqZip&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+###🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bbevqZip&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
